@@ -1,0 +1,102 @@
+[
+    {
+        "logo": "https://raw.githubusercontent.com/iamsi/botcstuff/main/Extension_Cord/assets/logo.png",
+        "author": "Viva La Sam",
+        "name": "Extension Cord",
+        "isOfficial": false,
+        "id": "_meta"
+    },
+    {
+        "id": "bishop"
+    },
+    {
+        "id": "bone_collector"
+    },
+    {
+        "id": "bureaucrat"
+    },
+    {
+        "id": "butcher"
+    },
+    {
+        "id": "matron"
+    },
+    {
+        "id": "investigator"
+    },
+    {
+        "id": "pixie"
+    },
+    {
+        "id": "empath"
+    },
+    {
+        "id": "dreamer"
+    },
+    {
+        "id": "mathematician"
+    },
+    {
+        "id": "oracle"
+    },
+    {
+        "id": "monk"
+    },
+    {
+        "id": "artist"
+    },
+    {
+        "id": "fisherman"
+    },
+    {
+        "id": "huntsman"
+    },
+    {
+        "id": "soldier"
+    },
+    {
+        "id": "ravenkeeper"
+    },
+    {
+        "id": "cannibal"
+    },
+    {
+        "id": "puzzlemaster"
+    },
+    {
+        "id": "recluse"
+    },
+    {
+        "id": "mutant"
+    },
+    {
+        "id": "damsel"
+    },
+    {
+        "id": "barber"
+    },
+    {
+        "id": "poisoner"
+    },
+    {
+        "id": "spy"
+    },
+    {
+        "id": "scarlet_woman"
+    },
+    {
+        "id": "boomdandy"
+    },
+    {
+        "id": "marionette"
+    },
+    {
+        "id": "no_dashii"
+    },
+    {
+        "id": "sentinel"
+    },
+    {
+        "id": "hells_librarian"
+    }
+]
